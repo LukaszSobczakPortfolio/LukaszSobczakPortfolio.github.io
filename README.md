@@ -4,13 +4,13 @@
 
 - Advent in Java
 
-hurray
+	hurray
 
 - Advent in clojure
 
 not hurray
 
-- Other stuff
+-- Other stuff
 
 
 ## Welcome to GitHub Pages

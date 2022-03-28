@@ -8,9 +8,9 @@
 
 - Advent in clojure
 
-	-- not hurray
+	- not hurray
 
--- Other stuff
+	- Other stuff
 
 
 ## Welcome to GitHub Pages

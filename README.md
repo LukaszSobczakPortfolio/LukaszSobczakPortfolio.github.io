@@ -4,7 +4,7 @@
 
 - Advent in Java
 
-	hurray
+	hurray 
 
 - Advent in clojure
 

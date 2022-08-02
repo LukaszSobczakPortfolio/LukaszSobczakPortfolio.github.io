@@ -11,8 +11,8 @@
 - Spring
 
 	- [connect to Star Wars Api and cache results](https://github.com/pikolinianita/SPTest)
-
-	- (WIP) ["To Do" spring server ] (https://github.com/pikolinianita/my-to-do)
+	- (Work in progress) ["To Do" spring app](https://github.com/pikolinianita/my-to-do)
+	- [experiments with EventListener.](https://github.com/LukaszSobczakPortfolio/Event-Listener) Features weak references and ???
 
 
 ## Welcome to GitHub Pages

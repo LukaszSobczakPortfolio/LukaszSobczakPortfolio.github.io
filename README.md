@@ -2,15 +2,17 @@
 
 ## My projects
 
-- Advent in Java
+- Advent of code
+	- [Advent 2020 in Java](https://github.com/pikolinianita/Advent2020) 		38 Stars
+	- [Advent 2021 in Clojure](https://github.com/pikolinianita/Adv.zozi) 		27 Stars
 
-	hurray 
+	 
 
-- Advent in clojure
+- Spring
 
-	- not hurray
+	- [connect to Star Wars Api and cache results](https://github.com/pikolinianita/SPTest)
 
-	- Other stuff
+	- (WIP) ["To Do" spring server ] (https://github.com/pikolinianita/my-to-do)
 
 
 ## Welcome to GitHub Pages

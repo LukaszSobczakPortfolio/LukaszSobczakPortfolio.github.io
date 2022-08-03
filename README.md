@@ -15,4 +15,4 @@
 	- [experiments with EventListener.](https://github.com/LukaszSobczakPortfolio/Event-Listener) Features weak references and ???
 
 
-- [CV in pdf]()
+- [CV in pdf](https://github.com/LukaszSobczakPortfolio/LukaszSobczakPortfolio.github.io/blob/main/LukaszSobczakCV.pdf)

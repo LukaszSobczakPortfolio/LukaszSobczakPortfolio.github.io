@@ -12,7 +12,8 @@
 
 	- [connect to Star Wars Api and cache results](https://github.com/pikolinianita/SW_Test)
 	- (Work in progress) ["To Do" spring app](https://github.com/pikolinianita/my-to-do)
-	- [experiments with EventListener.](https://github.com/LukaszSobczakPortfolio/Event-Listener) Features weak references and ???
+	
+	
 
 
 - [CV in pdf](https://github.com/LukaszSobczakPortfolio/LukaszSobczakPortfolio.github.io/blob/main/LukaszSobczakCV.pdf)

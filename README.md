@@ -11,7 +11,7 @@
 - Spring
 
 	- [connect to Star Wars Api and cache results](https://github.com/pikolinianita/SW_Test)
-	- (Work in progress) ["Playground with Listeners"](https://github.com/LukaszSobczakPortfolio/Event-Listener) Demp project with Spring Boot - BeanPostProcessor, Weak references and, as usuall, Dependence Injection, Thymeleaf, Tests and more
+	- (Work in progress) ["Playground with Listeners"](https://github.com/LukaszSobczakPortfolio/Event-Listener) Demo project with Spring Boot. Features: BeanPostProcessor, Weak references and, as usual, Dependence Injection, Thymeleaf, Tests and more.
 	
 	
 

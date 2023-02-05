@@ -11,7 +11,7 @@
 - Spring
 
 	- [connect to Star Wars Api and cache results](https://github.com/pikolinianita/SW_Test)
-	- (Work in progress) ["To Do" spring app](https://github.com/pikolinianita/my-to-do)
+	- (Work in progress) ["Playground with Listeners"](https://github.com/LukaszSobczakPortfolio/Event-Listener) Demp project with Spring Boot - BeanPostProcessor, Weak references and, as usuall, Dependence Injection, Thymeleaf, Tests and more
 	
 	
 
